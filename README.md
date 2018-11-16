@@ -8,7 +8,3 @@ In contribution
 - Carley Rose-Horowitz
 - Zaid Al-Shakarchi 
 
-
-
-
-* https://startbootstrap.com
